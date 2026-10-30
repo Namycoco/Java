@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ED8B00&height=120&section=header&text=JAVA%20DESDE%20CERO&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%">
+</p>
 
- # ☕ **JAVA DESDE CERO** — 
+
+<hr>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Java-Lenguaje_de_programación-orange?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -217,7 +221,7 @@ Nivel	Reto
  **Herramientas utilizadas**
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,idea,eclipse,vscode,git,github" />
+<img src="https://skillicons.dev/icons?i=java,eclipse,vscode,git,github" />
 </p>
 
 <p align="center">
